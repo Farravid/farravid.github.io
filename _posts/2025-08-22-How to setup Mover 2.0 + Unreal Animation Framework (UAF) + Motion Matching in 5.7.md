@@ -7,7 +7,14 @@ lang: en
 media_subpath: /assets/img/mover-uaf-motionmatching/
 ---
 
+#
 
-About two months ago, the technical demonstration of The Witcher 4 at Unreal Fest showcased the next-generation animation system of the Unreal Engine (Unreal Animation Framework, hereafter referred to as UAF, while the previous animation blueprint system will be referred to as ABP). This sparked my strong curiosity, and I felt it was time to dive into understanding this system.
+This article will explore how to connect three of the most cutting-edge technologies from Epic Games in Unreal Engine. The future is here 🚀
 
-This article will analyze the system from a architecture perspective, primarily introducing its components, the meanings of various types, and their logical relationships. I hope this will help everyone grasp and get started with this new animation system, but it will not cover details such as animation blending calculations or animation retargeting.
+# Useful knowleadge to have
+- [What is Mover 2.0](https://unrealstack.com/what-is-ue5-character-mover-2-0/)
+- [What is UAF](https://dev.epicgames.com/community/learning/knowledge-base/nWWx/unreal-engine-unreal-animation-framework-uaf-faq)
+- [What is Motion Matching](https://dev.epicgames.com/documentation/en-us/unreal-engine/motion-matching-in-unreal-engine)
+
+> This example was made using Unreal Engine 5.7 from source code. You may find issues trying to implement this in older versions.
+{: .prompt-warning }
