@@ -16,7 +16,7 @@ timezone: Europe/Madrid
 
 title: David Martinez # the main title
 
-tagline: Animation programming, I guess # it will display as the subtitle
+tagline: La vida va de como te la tomas # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A blog about Animation Programming, C++ and Unreal Engine
@@ -28,8 +28,8 @@ url: "https://farravid.github.io"
 github:
   username: farravid # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+#twitter:
+#  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
