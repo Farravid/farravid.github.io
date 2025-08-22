@@ -4,10 +4,9 @@ date: 2025-08-22 12:37:00 +0200
 categories: [Unreal Engine, Animation]
 tags: [gameplay, animation, tutorial]    # TAG names should always be lowercase
 lang: en
-pin: true
 media_subpath: /assets/img/mover-uaf-motionmatching/
-image:
-    path: banner.jpg
+# image:
+#     path: banner.jpg
 ---
 
 #
