@@ -1,6 +1,6 @@
 ---
 title: How to setup Mover 2.0 + Unreal Animation Framework (UAF) + Motion Matching in 5.7
-date: 2025-08-022 12:30:00 +0800
+date: 2025-08-022 01:30:00 +0800
 categories: [Unreal Engine, Animation]
 tags: [gameplay, animation, tutorial]    # TAG names should always be lowercase
 lang: en
