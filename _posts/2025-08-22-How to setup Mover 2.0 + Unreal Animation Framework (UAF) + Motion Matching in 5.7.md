@@ -7,7 +7,7 @@ lang: en
 pin: true
 media_subpath: /assets/img/mover-uaf-motionmatching/
 image:
-    path: /assets/img/mover-uaf-motionmatching/banner.jpg
+    path: banner.jpg
 ---
 
 #
